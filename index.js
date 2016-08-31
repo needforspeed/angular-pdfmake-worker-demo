@@ -57,7 +57,7 @@
         ]);
         pdf("closeTable");
         pdf("add", [{
-            text: "Bold Value",
+            text: "Bold Value with inline style",
             bold: true
           },
           "normal value"

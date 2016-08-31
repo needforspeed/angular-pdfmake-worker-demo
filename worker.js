@@ -3,6 +3,7 @@ var document = {
     return {};
   }
 };
+
 var window = this;
 
 importScripts(
@@ -30,7 +31,7 @@ importScripts(
   function set(data) {
     if(typeof data !== 'undefined'  && typeof data.content !== 'undefined') {
       doc = data;
-    };
+    }
   }
 
   function add(data) {
