@@ -1,0 +1,27 @@
+{
+  "name": "angular-pdfmake-webworker",
+  "description": "This is an angular app that uses web worker and pdfmake to generate pdf file.",
+  "main": "index.js",
+  "authors": [
+    "Yuncong Zhang"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "pdfmake",
+    "web worker"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pdfmake": "^0.1.20",
+    "angular": "^1.5.8",
+    "file-saver": "^1.3.2"
+  }
+}

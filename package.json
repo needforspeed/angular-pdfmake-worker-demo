@@ -1,0 +1,24 @@
+{
+  "name": "angular-pdfmake-webworker",
+  "version": "0.0.1",
+  "description": "This is an angular app that uses web worker and pdfmake to generate pdf file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "keywords": [
+    "angular",
+    "pdfmake",
+    "web worker"
+  ],
+  "author": "Yuncong Zhang",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.3",
+    "jshint-stylish": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/needforspeed/angular-pdfmake-worker-demo.git"
+  }
+}
