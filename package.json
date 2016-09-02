@@ -4,7 +4,8 @@
   "description": "This is an angular app that uses web worker and pdfmake to generate pdf file.",
   "main": "index.js",
   "scripts": {
-    "test": "true"
+    "test": "true",
+    "start": "./node_modules/.bin/http-server",
   },
   "keywords": [
     "angular",
