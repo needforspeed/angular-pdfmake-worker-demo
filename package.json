@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "true",
-    "start": "./node_modules/.bin/http-server",
+    "start": "./node_modules/.bin/http-server"
   },
   "keywords": [
     "angular",
